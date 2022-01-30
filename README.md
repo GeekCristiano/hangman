@@ -6,7 +6,7 @@ Console hangman game powered py Python 🐍
 
 - No bugs 🤪
 - Pretty ASCII graphics 🔥
-- Works without Internet 🌐
+- Works without Internet 🌐😆
 
 ## Documentation
 
@@ -14,7 +14,7 @@ Console hangman game powered py Python 🐍
 
 ## How to launch
 
-Run the code below to run the program
+Run the code below to play the game
 
 ```sh
 python hangman.py
